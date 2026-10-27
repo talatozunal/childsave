@@ -1,0 +1,31 @@
+# macOS
+.DS_Store
+
+# Xcode
+xcuserdata/
+*.xcuserstate
+DerivedData/
+build/
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# Swift Package Manager
+.build/
+.swiftpm/
+
+# Android / Gradle
+*.iml
+.gradle/
+local.properties
+.idea/
+/captures
+.externalNativeBuild
+.cxx
+*.apk
+*.aab
+
+# İmzalama anahtarları (ASLA yüklemeyin)
+*.jks
+*.keystore
+keystore.properties
