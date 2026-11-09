@@ -1,4 +1,4 @@
-# ChildSave (Çocuk Kartlarım)
+# Child Health (Çocuk Kartlarım)
 
 Anne ve babaların çocuklarının sağlık bilgilerini yakından takip etmesi ve paylaşması için; çocuğunuzun aşı takibini, kan grubu bilgisini ve alerji / kronik hastalık kayıtlarını tek yerde tutan, tamamen cihaz üzerinde çalışan bir mobil uygulama.
 
