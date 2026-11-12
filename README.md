@@ -8,9 +8,18 @@ Anne ve babaların çocuklarının sağlık bilgilerini yakından takip etmesi v
 - **Kan Grubu Kartı:** Kurum, doğum yeri, kan grubu ve onaylayan bilgileri
 - **Alerji ve Kronik Hastalık Kartı:** Sınırsız kayıt, kullanılan ilaç, doz ve kullanım sıklığı
 - **Çoklu çocuk desteği:** Her çocuk için ayrı kartlar, cinsiyete göre renk teması
-- **Kartları paylaşma:** Kartlar görsel olarak paylaşılabilir. Paylaşılan görselde T.C. Kimlik No maskelenir (ilk 2 ve son 2 hane görünür, örn. `12*******01`)
+- **Kartları paylaşma:** Kartlar görsel olarak paylaşılabilir. Paylaşılan görselde T.C. Kimlik No maskelenir (ilk 3 ve son 3 hane görünür, örn. `123•••••901`)
 - **Beş dil:** Türkçe, İngilizce, Almanca, Fransızca ve İtalyanca; dil uygulama içinden, yeniden başlatmadan değiştirilebilir
 - **Gizlilik:** Veriler yalnızca cihazda saklanır, hiçbir sunucuya gönderilmez
+
+## Web sitesi
+
+Tanıtım sitesi [`docs/`](docs) klasöründedir ve GitHub Pages ile yayınlanır:
+<https://talatozunal.github.io/ChildHealth/>
+
+Site beş dilde (Türkçe, İngilizce, Almanca, Fransızca, İtalyanca) çalışır, dil
+seçimi tarayıcıda saklanır. Yayınlamak için depo ayarlarında **Pages → Source:
+Deploy from a branch → `main` / `docs`** seçilmelidir.
 
 ## Platformlar
 
